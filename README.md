@@ -8,7 +8,7 @@ PyBer is a ride sharing app company valued at $2.3 billion and therefore require
 ### Analysis of ride sharing data by city type
 
 ### Analysis of total weekly fares for each city type
-[+Fig8.png](https://github.com/AviLevyHTX/PyBer_Analysis/blob/main/analysis/Fig8.png)
+Fig8.png(https://github.com/AviLevyHTX/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 
 
