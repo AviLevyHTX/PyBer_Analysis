@@ -5,7 +5,7 @@
 PyBer is a ride sharing app company valued at $2.3 billion and therefore requires detailed analysis and reports to understand how the business is performing. There are many metrics to study however the CEO, V. Isualize, has requested an analysis of the ride sharing data by city type and an analysis of total weekly fares for each city type. The analysis of the ride sharing data by city type will provide valuable information about the app's performance in three different city types (Urban, Suburban, and Rural) and will include the ridership performance, fare performance, and driver count in those cities. The analysis of total weekly fares for each city type will contain a visual tool in the form of a graph to help understand the trend over short time frame in the year 2019. There is important information by comparuing the different city types. V.Isualize is a detail oriented person so the analysis that will be performed will be thorough and help PyBer continue to succeed amongst other ride sharing apps.  
 
 ## Results
-### Analysis of ride sharing data by city type
+### Analysis of Ride Sharing Data by City Type
 In each of the three city types, calculations were performed to obtain the total rides, total drivers, total fares, average fare per ride, and average fare per driver. All that information was collected and placed in the table below (also can be found in Analysis folder and table is referred to as Fig9). 
 
 ![Fig9](/analysis/Fig9.PNG)
@@ -16,7 +16,7 @@ While urban cities were highest for the metrics listed above, rural cities had t
 
 When reviewing the data about urban cities, the average fare per ride was higher than the average fare per driver. This may indicate that drivers working in urban cities must operate at a lost because the average amount they earn is less than the average fare per ride.
 
-### Analysis of total weekly fares for each city type
+### Analysis of Total Weekly Fares for Each City Type
 Another analysis was performed to understand and visualize how fares compared amongst the three city types. The analysis involved a time period of four months between January and April in 2019. A multiple line chart was then created, which can be seen below, to visualize the fare trends throughout that time period. 
 
 ![Fig8](/analysis/Fig8.png)
